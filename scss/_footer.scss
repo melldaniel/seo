@@ -1,0 +1,32 @@
+footer{
+    background-color: rgb(179, 143, 179);
+    padding: 5px;
+    width: 1022px;
+    height: 100px;
+    border: solid;
+    border-color: rgb(102, 100, 100);
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+
+
+ol{
+    color: rgb(235, 243, 243);
+    font-size: 20px;
+    justify-content: center;
+}
+
+
+footer div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 50px;
+
+}
+
+
+
